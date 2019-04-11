@@ -1,4 +1,4 @@
-- *How does a debugger work?* [ref](https://stackoverflow.com/questions/216819/how-does-a-debugger-work)
+- *How does a debugger work?* [Credit: ya23 & Rob Walker](https://stackoverflow.com/questions/216819/how-does-a-debugger-work)
 
 
 
